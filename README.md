@@ -12,6 +12,8 @@
   </a>
 </p>
 
+也可以在[releases](https://github.com/fatsnk/LifeReloaded/releases)中下载。
+
 ### 使用方法
 
 1. 在手机上下载并安装forksilly：https://github.com/fatsnk/forksilly.doc
