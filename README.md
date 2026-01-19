@@ -7,7 +7,7 @@
 ### 使用方法
 
 1. 在手机上下载并安装forksilly：https://github.com/fatsnk/forksilly.doc
-2. 下载卡片：[原图](https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.png) 或[json](https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.json)
+2. 下载卡片：[原图](https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.png) 或[json](https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.json) （长按选择另存或下载到设备）
 3. 在forksilly中导入角色卡。
 4. 使用默认预设游玩，如果没有，请在预设管理中新建一个，并将Personal Description词条关闭，防止用户提示词影响模型。参考设置：[预设开关状态](https://github.com/fatsnk/LifeReloaded/blob/ccv2/cards/default_preset.jpg)
 
