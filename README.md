@@ -4,6 +4,14 @@
 此分支是原项目https://github.com/EmbraceAGI/LifeReloaded 的Character Card（酒馆角色卡）移植，
 作为安卓移动端项目https://github.com/fatsnk/forksilly.doc 的示例角色卡，仅用于展示角色卡的制作和使用。如果需要在sillytavern中使用，可能需要修改世界书中random宏。
 
+#### 下载
+
+<p align="left">
+  <a href="https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.png">
+    <img src="https://img.shields.io/badge/📥 下载PNG角色卡-blue?style=for-the-badge" alt="下载按钮">
+  </a>
+</p>
+
 ### 使用方法
 
 1. 在手机上下载并安装forksilly：https://github.com/fatsnk/forksilly.doc
