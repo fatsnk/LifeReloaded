@@ -1,3 +1,5 @@
+## 示例角色卡1
+
 <img src="./cards/greeting.jpg" width="200"/><img src="./cards/start.jpg" width="200"/><img src="./cards/button.jpg" width="200"/><img src="./cards/NE.jpg" width="200"/>
 
 ### 介绍
@@ -8,7 +10,7 @@
 
 <p align="left">
   <a href="https://raw.githubusercontent.com/fatsnk/LifeReloaded/bee1d6d331327078e89be32ab8f467f3e35bf4c8/cards/%E4%BA%BA%E7%94%9F%E9%87%8D%E5%BC%80%E6%A8%A1%E6%8B%9F%E5%99%A8.png">
-    <img src="https://img.shields.io/badge/📥 下载PNG角色卡-blue?style=for-the-badge" alt="下载按钮">
+    <img src="https://img.shields.io/badge/📥-下载PNG角色卡-blue?style=for-the-badge" alt="下载按钮">
   </a>
 </p>
 
@@ -30,3 +32,9 @@
 * 开场的属性分配器显示不完整：在主题设置中调整html内容高度，或者切换到卡片主题
 * 属性分配器无法滚动：请滑动分配器之外的区域，或者使用双指滚动
 * 不好玩？我也这么觉得，Claude4.5sonnet写得好差啊（ ~~*只是示例角色卡，凑活看看得了*~~
+
+## 示例角色卡2
+
+点击下面按钮查看详情。
+
+[![单轮](https://img.shields.io/badge/📥-单轮生图-blue?style=plastic&logo=github)](https://github.com/fatsnk/LifeReloaded/blob/ccv2/cards/imageAssistant)
